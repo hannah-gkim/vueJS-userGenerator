@@ -42,6 +42,10 @@ img {
   background-color: pink;
   color: #333;
 }
+.hannah {
+  width: 150px;
+  height: 150px;
+}
 
 button {
   cursor: pointer;
